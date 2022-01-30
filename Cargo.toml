@@ -1,0 +1,13 @@
+[package]
+name = "oop_in_rust"
+version = "0.1.0"
+edition = "2021"
+description = "A simple example of oop in rust"
+license = "GNU General Public License v3.0 or later"
+license-file = "license.txt"
+repository = "https://github.com/giorgos-athanassopoulos/oop_in_rust"
+documentation = "https://github.com/giorgos-athanassopoulos/oop_in_rust/blob/main/doc.txt"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
